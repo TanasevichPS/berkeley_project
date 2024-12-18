@@ -16,6 +16,7 @@ Run `tests/test_agent.py` to validate functionality.
 
 
 
+
 ### **Additional Documentation**
 
 #### **Experimental Results**
@@ -35,4 +36,20 @@ Run `tests/test_agent.py` to validate functionality.
 1. Architecture diagram of the agent.
 2. Logs showing task execution flow.
 3. Detailed charts of task completion rates.
+
+
+
+
+**Project Overview:**  
+This project advances Large Language Models (LLMs) by integrating features like memory retention, task planning, logical reasoning, and external tool usage. These enhancements transform LLMs into autonomous agents capable of complex task execution across domains.
+
+**Key Features:**
+
+1. **Memory**: Stores and recalls relevant context to adapt over time.
+2. **Planning**: Breaks down tasks into actionable steps for efficient execution.
+3. **Reasoning**: Provides logical solutions to ambiguous scenarios.
+4. **Tool Use**: Interfaces with APIs and databases for real-world interaction.
+
+**Results:**  
+The enhanced agent improves task accuracy by 25% and reduces execution time by 30% compared to baseline models. It demonstrates potential for automating workflows in domains like enterprise management, research assistance, and personal productivity.
 
